@@ -1,0 +1,6 @@
+[submodule "midas"]
+	path = midas
+	url = https://github.com/isl-org/MiDaS.git
+[submodule "sam2"]
+	path = sam2
+	url = https://github.com/facebookresearch/sam2
